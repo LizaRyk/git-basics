@@ -1,0 +1,1 @@
+start = float(input("Enter a start value: "))
